@@ -1,2 +1,3 @@
-# json-server
-json-server to fake api requests
+# render-json-server
+
+Runs on `http://localhost:8080`
